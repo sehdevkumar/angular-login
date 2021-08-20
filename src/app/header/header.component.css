@@ -1,0 +1,11 @@
+.menu-link{
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}.menu-link a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: rgb(250, 250, 241);
+}
